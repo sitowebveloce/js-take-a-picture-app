@@ -20,11 +20,16 @@
 ## Installation
 
 Open index.html in your browser.
+Press the K button.
 
 
 ## 🐛 Bugs
 
 ...sure
+
+### Video Link
+    
+[Video Guide](https://youtu.be/Vbj4PtmL0ko)
 
 ## License
 
